@@ -1,0 +1,13 @@
+build:
+  version: "1.0.0"
+
+cards:
+  message: "Welcome to cards related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@cards-apis.com"
+  onCallSupport:
+    - (+33) 555-1234
+    - (+33) 523-1345
+
+

@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to  accounts related --Production APIs "
+  message: "Welcome to  accounts related Production - API(s) "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}c93885e85ff8ecca8fd1430a8b342c553365407280426205d806cef8e6a2e18c1d4d57434e595e39ff29d4fefcca198a"

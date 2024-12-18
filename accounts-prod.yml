@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to  accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@accounts-apis.com"
+    email: "{cipher}c93885e85ff8ecca8fd1430a8b342c553365407280426205d806cef8e6a2e18c1d4d57434e595e39ff29d4fefcca198a"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384

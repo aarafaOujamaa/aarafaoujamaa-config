@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to  accounts related QA -  APIs "
+  message: "Welcome to  accounts related QA --  APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@accounts-apis.com"
